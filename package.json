@@ -14,7 +14,7 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "helmet": "^3.21.2",
+    "helmet": "^3.23.3",
     "telegraf": "^3.33.3"
   },
   "devDependencies": {
